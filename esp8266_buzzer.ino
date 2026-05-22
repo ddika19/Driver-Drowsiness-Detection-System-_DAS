@@ -4,7 +4,7 @@
 
 const char* WIFI_SSID     = "Dika71";
 const char* WIFI_PASSWORD = "dika711";
-const char* MQTT_BROKER   = "10.146.92.125";
+const char* MQTT_BROKER   = "your_ip_address";
 const int MQTT_PORT       = 1883;
 
 #define BUZZER_PIN D1
