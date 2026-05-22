@@ -8,7 +8,7 @@ import time
 import json
 
 # CONFIGURATION CONSTANTS (easy to tune)
-MQTT_BROKER    = "10.41.193.125"
+MQTT_BROKER    = "your_ip _ address"
 MQTT_PORT      = 1883
 CAMERA_INDEX   = 0
 EAR_THRESHOLD  = 0.25
